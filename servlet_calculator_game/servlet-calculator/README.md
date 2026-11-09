@@ -94,7 +94,7 @@ Difficulty: **NORMAL** (stored in the database with every score).
 Add your own screenshots to the `screenshots` folder, then these links will work.
 
 ### Welcome Page
-![Welcome Page](screenshots/home.png)
+![Welcome Page](screenshots/welcome.png)
 
 ### Game Page
 ![Game Page](screenshots/game.png)
